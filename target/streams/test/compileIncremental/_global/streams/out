@@ -1,0 +1,10 @@
+[0m[[0m[0mdebug[0m] [0m[0mFull compilation, no sources in previous analysis.[0m
+[0m[[0m[0mdebug[0m] [0m[0mAll sources are invalidated.[0m
+[0m[[0m[0mdebug[0m] [0m[0mInitial set of included nodes: [0m
+[0m[[0m[0mdebug[0m] [0m[0mRecompiling all sources: number of invalidated sources > 50.0% of all sources[0m
+[0m[[0m[0minfo[0m] [0m[0mCompiling 1 Java source to /Users/vtahelya/Workspace/Downloads/play-samples/play-java-rest-api-example/target/scala-2.13/test-classes ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mAttempting to call com.sun.tools.javac.api.JavacTool@204df5fb directly...[0m
+[0m[[0m[0mdebug[0m] [0m[0mJava compilation took 0.751947458 s[0m
+[0m[[0m[0mdebug[0m] [0m[0mJava analysis took 0.138167715 s[0m
+[0m[[0m[0mdebug[0m] [0m[0mJava compilation + analysis took 0.900407272 s[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone compiling.[0m

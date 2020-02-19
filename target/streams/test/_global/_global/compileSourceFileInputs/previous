@@ -1,0 +1,1 @@
+["sbt.Task[scala.collection.immutable.Map[java.lang.String, scala.collection.Seq[scala.Tuple2[java.nio.file.Path, sbt.nio.FileStamp]]]]",{"2.13.1":{"hashes":[["/Users/vtahelya/Workspace/Downloads/play-samples/play-java-rest-api-example/test/it/IntegrationTest.java","f70eb2fcd7e439b6f1fec449fae29987f42fbb42"]],"lastModifiedTimes":[]}}]

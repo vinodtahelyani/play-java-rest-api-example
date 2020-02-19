@@ -1,0 +1,33 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /Users/vtahelya/Workspace/Projects/playframework-docker-image/play-java-rest-api-example/target/scala-2.13/play-java-rest-api-example_2.13-2.8.x-sources.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	logback.xml[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/vtahelya/Workspace/Projects/playframework-docker-image/play-java-rest-api-example/conf/logback.xml[0m
+[0m[[0m[0mdebug[0m] [0m[0m	posts.routes[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/vtahelya/Workspace/Projects/playframework-docker-image/play-java-rest-api-example/conf/posts.routes[0m
+[0m[[0m[0mdebug[0m] [0m[0m	application.conf[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/vtahelya/Workspace/Projects/playframework-docker-image/play-java-rest-api-example/conf/application.conf[0m
+[0m[[0m[0mdebug[0m] [0m[0m	routes[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/vtahelya/Workspace/Projects/playframework-docker-image/play-java-rest-api-example/conf/routes[0m
+[0m[[0m[0mdebug[0m] [0m[0m	META-INF/persistence.xml[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/vtahelya/Workspace/Projects/playframework-docker-image/play-java-rest-api-example/conf/META-INF/persistence.xml[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Module.java[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/vtahelya/Workspace/Projects/playframework-docker-image/play-java-rest-api-example/app/Module.java[0m
+[0m[[0m[0mdebug[0m] [0m[0m	controllers/HomeController.java[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/vtahelya/Workspace/Projects/playframework-docker-image/play-java-rest-api-example/app/controllers/HomeController.java[0m
+[0m[[0m[0mdebug[0m] [0m[0m	v1/post/PostResourceHandler.java[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/vtahelya/Workspace/Projects/playframework-docker-image/play-java-rest-api-example/app/v1/post/PostResourceHandler.java[0m
+[0m[[0m[0mdebug[0m] [0m[0m	v1/post/PostResource.java[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/vtahelya/Workspace/Projects/playframework-docker-image/play-java-rest-api-example/app/v1/post/PostResource.java[0m
+[0m[[0m[0mdebug[0m] [0m[0m	v1/post/JPAPostRepository.java[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/vtahelya/Workspace/Projects/playframework-docker-image/play-java-rest-api-example/app/v1/post/JPAPostRepository.java[0m
+[0m[[0m[0mdebug[0m] [0m[0m	v1/post/PostData.java[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/vtahelya/Workspace/Projects/playframework-docker-image/play-java-rest-api-example/app/v1/post/PostData.java[0m
+[0m[[0m[0mdebug[0m] [0m[0m	v1/post/PostAction.java[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/vtahelya/Workspace/Projects/playframework-docker-image/play-java-rest-api-example/app/v1/post/PostAction.java[0m
+[0m[[0m[0mdebug[0m] [0m[0m	v1/post/PostRepository.java[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/vtahelya/Workspace/Projects/playframework-docker-image/play-java-rest-api-example/app/v1/post/PostRepository.java[0m
+[0m[[0m[0mdebug[0m] [0m[0m	v1/post/PostController.java[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/vtahelya/Workspace/Projects/playframework-docker-image/play-java-rest-api-example/app/v1/post/PostController.java[0m
+[0m[[0m[0mdebug[0m] [0m[0m	v1/post/PostExecutionContext.java[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/vtahelya/Workspace/Projects/playframework-docker-image/play-java-rest-api-example/app/v1/post/PostExecutionContext.java[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m

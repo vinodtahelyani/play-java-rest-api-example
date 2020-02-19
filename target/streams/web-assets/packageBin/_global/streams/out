@@ -1,0 +1,15 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /Users/vtahelya/Workspace/Projects/playframework-docker-image/play-java-rest-api-example/target/scala-2.13/play-java-rest-api-example_2.13-2.8.x-web-assets.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	public/images[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/vtahelya/Workspace/Projects/playframework-docker-image/play-java-rest-api-example/public/images[0m
+[0m[[0m[0mdebug[0m] [0m[0m	public/javascripts[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/vtahelya/Workspace/Projects/playframework-docker-image/play-java-rest-api-example/public/javascripts[0m
+[0m[[0m[0mdebug[0m] [0m[0m	public/stylesheets[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/vtahelya/Workspace/Projects/playframework-docker-image/play-java-rest-api-example/public/stylesheets[0m
+[0m[[0m[0mdebug[0m] [0m[0m	public/javascripts/main.js[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/vtahelya/Workspace/Projects/playframework-docker-image/play-java-rest-api-example/public/javascripts/main.js[0m
+[0m[[0m[0mdebug[0m] [0m[0m	public/stylesheets/main.css[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/vtahelya/Workspace/Projects/playframework-docker-image/play-java-rest-api-example/public/stylesheets/main.css[0m
+[0m[[0m[0mdebug[0m] [0m[0m	public/images/favicon.png[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/vtahelya/Workspace/Projects/playframework-docker-image/play-java-rest-api-example/public/images/favicon.png[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m
